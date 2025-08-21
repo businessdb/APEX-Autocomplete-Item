@@ -4,8 +4,9 @@
 
 ![Screenshot](https://github.com/businessdb/APEX-Autocomplete-Item/blob/main/screenshot.gif?raw=true)
 
-This LOV based item plug-in allows does support multi-selection, lazy loading, create new entries and a table view.
+This LOV based item plug-in suports multi-selection, lazy loading, create new entries and a table view.
 
 Demo:
+
 
 https://my.business-db.com/ords/r/apps/plugin
