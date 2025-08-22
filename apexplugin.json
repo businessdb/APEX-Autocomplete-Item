@@ -1,7 +1,7 @@
 {
     "name": "APEX Autocomplete Item",
     "version": "1.0",
-    "description": "This LOV based item plug-in allows does support multi-selection, lazy loading, create new entries and a table view.",
+    "description": "This LOV based item plug-in supports multi-selection, lazy loading, create new entries and offers table view.",
     "keywords": ["oracle", "apex", "plugin", "item", "lov"],
     "homepage": "https://github.com/businessdb/APEX-Autocomplete-Item",
     "bugs": {
@@ -33,4 +33,5 @@
         }
     }
 }
+
 
